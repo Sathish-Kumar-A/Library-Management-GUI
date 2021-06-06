@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "sathish kumar",
+        "description": "student",
+        "isbn": "6123761873",
+        "page_count": 100,
+        "issued": true,
+        "author": "ramji",
+        "year": 201
+    },
+    {
+        "id": 535,
+        "name": "kjjgg",
+        "description": "2\\42\\",
+        "isbn": "\\22\\4",
+        "page_count": 242,
+        "issued": false,
+        "author": "2\\4\\42",
+        "year": 20
+    },
+    {
+        "id": 352,
+        "name": "75225",
+        "description": "75572",
+        "isbn": "75225",
+        "page_count": 752,
+        "issued": true,
+        "author": "752275",
+        "year": 275
+    },
+    {
+        "id": 758,
+        "name": "78575",
+        "description": "5727",
+        "isbn": "557",
+        "page_count": 57,
+        "issued": false,
+        "author": "755",
+        "year": 575
+    },
+    {
+        "id": 99,
+        "name": "78575",
+        "description": "5727",
+        "isbn": "557",
+        "page_count": 57,
+        "issued": true,
+        "author": "755",
+        "year": 99
+    }
+]
